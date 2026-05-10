@@ -57,13 +57,13 @@ This project implements and compares three models for automated cardiac arrhythm
 ```
 CECS551-ECG-Arrhythmia/
 │
-├── README.md                              ← This file
-├── requirements.txt                       ← Python dependencies (pinned versions)
+├── README.md                             ← This file
+├── requirements.txt                      ← Python dependencies (pinned versions)
 ├── CECS551-ECG-Arrhythmia.ipynb          ← Complete notebook: Phase 3 EDA + Phase 4 training
 └── CECS551_ECG_Arrhythmia.pdf            ← IEEE-style final report (Phase 4B)
 ```
 
-> **Note:** The notebook contains the full pipeline in a single file — Phase 3 EDA (sections 1–9) followed by Phase 4 model training and evaluation (sections 10–16). All plots are generated and saved automatically when cells are run.
+> **Note:** The notebook contains the full pipeline in a single file — Phase 3 EDA (sections 1–9) followed by Phase 4 model training and evaluation (sections 10–15). All plots are generated and saved automatically when cells are run.
 
 ---
 
